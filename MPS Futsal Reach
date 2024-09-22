@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alr-Dev/Spj-Reach/main/premium/gg.lua", true))()
